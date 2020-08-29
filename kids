@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Toonami.fr" group-title="Channels",TOONAMI
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/TOONAMI_1222_500_480x360_1089990/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CEBEEBIES
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/CBEEBIES_1242_500_480x360__TS/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DREAMWORKS
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/DREAMWORKS_1244_500_480x360__TS/playlist.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="Channels",KIDS
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_KIDS_768_500_480x360_167446/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MINDSET_LEARN
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/MINDSET_LEARN_1212_500_480x360__TS/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DA_VINCI
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/DA_VINCI_808_500_480x360_191178/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BABY_TV
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/BABY_TV_1196_500_480x360_825170/playlist.m3u8
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",NICKELODEON
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/NICKELODEON_836_500_480x360_191620/playlist.m3u8
+#EXTINF:0 tvg-id="jimjam" group-title="Channels",JIMJAM
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon-netwerk
+https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
+#EXTINF:0 tvg-id="MBC3.net" group-title="Channels",Mbc3
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
